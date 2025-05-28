@@ -1,25 +1,3 @@
-// function Getuser(username){
-//     return fetch(`https:api.github.com/users/${username}`).then(raw => {
-//         if(!raw.ok) throw new Error("User not found");
-//         return raw.json();
-//         // console.log(raw);
-
-//     })
-
-// }
-// function Getrepos(username){
-//     return fetch(`https:api.github.com/users/${username}/repos?sort=updated`).then(raw => {
-//         if(!raw.ok) throw new Error("repose not found");
-//         return raw.json();
-//         // console.log(raw);
-
-//     })
-
-// }
-
-// Getrepos("dipesh06019").then(function(data){
-//     console.log(data);  
-// })
 
 
 // var searchbtn=document.querySelector(".searchbtn")
@@ -37,13 +15,6 @@
 // }
 // })
 
-// https://www.linkedin.com/posts/lucky-chauhan-12b18a25a_javascript-webdevelopment-frontend-activity-7324513207371358208-1l_2?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD-9-DMBAX5SYlNh8cVQr6uLIw4aWHwoI54&utm_campaign=share_via
-// Movie Search App with OMDb API and TailwindCSS | lucky chauhan post...
-// 🎬 Movie Search App Using OMDb API
-// Thrilled to share my latest project — a clean and responsive Movie Search Web App built using vanilla JavaScript, HTML, and TailwindCSS! 🚀
-// 🔎 Search any movie and get instant details powered by the OMDb API:
-// 🎥 Title, Genre, Runtime, IMDb Rating, Language, and Plot — all delivered in a smooth UI ...
-// Movie Search App with OMDb API and TailwindCSS | lucky chauhan post...
 
 
 // fetch(`https://api.github.com/users/async`)
